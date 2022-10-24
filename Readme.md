@@ -1,4 +1,4 @@
-#A LIGHTWEIGHT IMAGE ENTROPY-BASED DIVIDE-AND-CONQUER NETWORK FOR LOW-LIGHT IMAGE ENHANCEMENT(IEDCN)
+# A LIGHTWEIGHT IMAGE ENTROPY-BASED DIVIDE-AND-CONQUER NETWORK FOR LOW-LIGHT IMAGE ENHANCEMENT(IEDCN)
 This is the official Pytorch implementation for this paper.
 ## Introduction
 Images captured in low-light conditions usually suffer from degradation problems. Based on the observation, we found
