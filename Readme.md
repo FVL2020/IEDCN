@@ -25,3 +25,5 @@ If you find our work useful in your research or publications, please consider ci
   year={2022},
 }
 ```
+## License
+This repository is released under the MIT License as found in the LICENSE file. Code in this repo is for non-commercial use only.
